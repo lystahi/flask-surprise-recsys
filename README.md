@@ -1,10 +1,13 @@
 # flask-surprise-recsys
 
 ターミナルもしくはコマンドプロンプトで
+
 python recommender.py
+
 を実行して、レコメンドするアイテム一覧を作成。
 
 python api.py
+
 を実行してFlaskアプリケーションを起動。
 
 ブラウザで
